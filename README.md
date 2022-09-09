@@ -1,7 +1,9 @@
 # Schelling-Sakoda refuting machine
-NetLogo implementation of Schelling-Sakoda model of spatial segregation. 
+NetLogo implementation of Schelling-Sakoda model of spatial segregation. See Schelling (1971, pp. 154-158). 
   * File schelling-sakoda-refuting-machine.**nlogo** is the NetLogo model, which can be run with NetLogo
   * File schelling-sakoda-refuting-machine.**html** is an HTML file where the model is embedded, so it can be run in any browser
+
+This model has been included as appendix A in the paper "Social simulation models as refuting machines", by Mauhe, Izquierdo & Izquierdo (2022).
 
 # Model description
 
@@ -27,3 +29,10 @@ The model can be setup and run using the following **buttons**:
 # Output
 
 The **avg-%-similar** is the average proportion (across all agents with at least one neighbour) of an agent's neighbours that are the same color as the agent.
+
+# References
+
+Mauhe, N., Izquierdo, L.R. & Izquierdo S.S. (2022). Social simulation models as refuting machines. Working paper
+
+Schelling, T. C. (1971). Dynamic models of segregation. _The Journal of Mathematical Sociology_, 1(2), 143–186.
+[doi: 10.1080/0022250X.1971.9989794]([https://www.google.com](https://10.1080/0022250X.1971.9989794))
