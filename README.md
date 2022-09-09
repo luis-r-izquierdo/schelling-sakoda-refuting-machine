@@ -1,7 +1,7 @@
 # Schelling-Sakoda refuting machine
-NetLogo implementation of Schelling-Sakoda model of spatial segregation. See Schelling (1971, pp. 154-158). 
-  * File schelling-sakoda-refuting-machine.**nlogo** is the NetLogo model, which can be run with NetLogo
-  * File schelling-sakoda-refuting-machine.**html** is an HTML file where the model is embedded, so it can be run in any browser
+NetLogo implementation of Schelling-Sakoda model of spatial segregation (see [Schelling (1971, pp. 154-158)](https://doi.org/10.1080/0022250X.1971.9989794)). The repository contains two main files:
+  * **schelling-sakoda-refuting-machine.nlogo** is the NetLogo model, which can be run with [NetLogo Desktop](https://ccl.northwestern.edu/netlogo/) or [NetLogo Web](http://www.netlogoweb.org).
+  * **index.html** is an HTML file where the model is embedded, so it can be run in any browser. You can do so by clicking [here](https://luis-r-izquierdo.github.io/schelling-sakoda-refuting-machine/).
 
 This model has been included as appendix A in the paper "Social simulation models as refuting machines", by Mauhe, Izquierdo & Izquierdo (2022).
 
@@ -32,7 +32,6 @@ The **avg-%-similar** is the average proportion (across all agents with at least
 
 # References
 
-Mauhe, N., Izquierdo, L.R. & Izquierdo S.S. (2022). Social simulation models as refuting machines. Working paper
-
-Schelling, T. C. (1971). Dynamic models of segregation. _The Journal of Mathematical Sociology_, 1(2), 143–186.
-[doi: 10.1080/0022250X.1971.9989794](https://10.1080/0022250X.1971.9989794)
+* Mauhe, N., Izquierdo, L.R. & Izquierdo S.S. (2022). Social simulation models as refuting machines. Working paper
+* Schelling, T. C. (1971). Dynamic models of segregation. _The Journal of Mathematical Sociology_, 1(2), 143–186.
+[doi: 10.1080/0022250X.1971.9989794](https://doi.org/10.1080/0022250X.1971.9989794)
