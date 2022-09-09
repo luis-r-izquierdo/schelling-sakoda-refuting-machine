@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7065865.svg)](https://doi.org/10.5281/zenodo.7065865)
+
 # Schelling-Sakoda refuting machine
 NetLogo implementation of Schelling-Sakoda model of spatial segregation (see [Schelling (1971, pp. 154-158)](https://doi.org/10.1080/0022250X.1971.9989794)). The repository contains two main files:
   * **schelling-sakoda-refuting-machine.nlogo** is the NetLogo model, which can be run with [NetLogo Desktop](https://ccl.northwestern.edu/netlogo/) or [NetLogo Web](http://www.netlogoweb.org).
