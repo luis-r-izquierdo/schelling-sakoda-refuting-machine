@@ -35,4 +35,4 @@ The **avg-%-similar** is the average proportion (across all agents with at least
 Mauhe, N., Izquierdo, L.R. & Izquierdo S.S. (2022). Social simulation models as refuting machines. Working paper
 
 Schelling, T. C. (1971). Dynamic models of segregation. _The Journal of Mathematical Sociology_, 1(2), 143–186.
-[doi: 10.1080/0022250X.1971.9989794]([https://www.google.com](https://10.1080/0022250X.1971.9989794))
+[doi: 10.1080/0022250X.1971.9989794](https://10.1080/0022250X.1971.9989794)
