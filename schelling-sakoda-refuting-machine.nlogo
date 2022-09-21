@@ -405,7 +405,7 @@ movement-rule
 
 We use bold italicised font for _**parameters**_. The model assumptions are the following:
 
-  * There is a 20x20 grid containing _**number-of-agents**_ agents. This number is assumed to be even and within the interval [100, 300]. Half of the agents are blue and the other half orange.
+  * There is a 16x13 grid containing _**number-of-agents**_ agents. This number is assumed to be even and within the interval [100, 200]. Half of the agents are blue and the other half orange.
 	
   * Initially, agents are distributed at random in distinct grid cells.
 	
@@ -749,7 +749,7 @@ false
 Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
 @#$#@#$#@
-NetLogo 6.2.1
+NetLogo 6.2.2
 @#$#@#$#@
 @#$#@#$#@
 @#$#@#$#@
