@@ -10,7 +10,7 @@ This model has been included as appendix A in the paper "Social simulation model
 # Model description
 
 We use bold italicised font for _**parameters**_. The model assumptions are the following:
-  * There is a 20x20 grid containing _**number-of-agents**_ agents. This number is assumed to be even and within the interval [100, 300]. Half of the agents are blue and the other half orange.
+  * There is a 16x13 grid containing _**number-of-agents**_ agents. This number is assumed to be even and within the interval [100, 200]. Half of the agents are blue and the other half orange.
   * Initially, agents are distributed at random in distinct grid cells.
   * Agents may be content or discontent.
   * Each individual agent is content if it has no Moore neighbours, or if at least _**%-similar-wanted**_ of its neighbours are of its same colour. Otherwise the agent is discontent.
